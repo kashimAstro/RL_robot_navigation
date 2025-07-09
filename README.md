@@ -128,3 +128,7 @@ To demonstrate with the ESP8266 robot via HTTP:
 * **--step-lin**: Linear movement steps for the robot.
 * **--step-rot**: Rotational movement steps for the robot.
 * **--ip-esp**: IP address of your ESP8266 robot.
+
+
+You can use the 3D parts from this project for the example robot.
+<a href="https://github.com/kashimAstro/esp8266_A_star">https://github.com/kashimAstro/esp8266_A_star</a>
